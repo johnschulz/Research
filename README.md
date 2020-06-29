@@ -13,3 +13,5 @@ https://docs.google.com/spreadsheets/d/1YgFoSOEt9edjE0CTmMayAN6J09zMHdI-WQu9BL75
 
 
 # Group Project
+## Data in the Humanities: Interpreting the Humanities in a Digital World
+A critical analysis of the methodologies and interpretion required to effectively understand digital information in the humaninities. Through close reading and research into six articles, my group concludes that technology cannot simply subsitute historically critically aware perspectives of humanists, but rather should be used in tandem to provide evidentary support that help produce informed conclusions. 
