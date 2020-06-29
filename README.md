@@ -1,6 +1,6 @@
 
 # Digital Humanities 101
-### Independent and Group Projects
+A portfolio of the work I completed as a student in DIG HUM 101. This repository is composed of two projects, one I did independently and a group project I did with Jack Xie, Matthew Mason, and Mariana Linares. Both of these projects were research based and focused on understanding and applying Digital techniques in the humanities.
 
 
 # Independent Project
