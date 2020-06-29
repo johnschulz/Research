@@ -1,9 +1,9 @@
 
 # Digital Humanities 101
-## Independent and Group Projects
+### Independent and Group Projects
 
 
-#Independent Project
+# Independent Project
 ## Black Lives Matter in the News: Data Collection and Sentiment Analysis
 An exploration of how the news has been portrayed the Black Lives Matter movement and other conflicting movements including Blue Lives Matter and All Lives matter over the past month. My project is composed of multiple Jupyter notebooks to collect data, analyze the sentiment of the news and visualize my findings. Collectively, these Jupyter Notebooks work together to answer my reasearch question: How does the news portray the Black Lives Matter and other counter-movements including All Lives Matter and Blue Lives Matter in the headlines they choose to share and words they use to describe events? 
 
